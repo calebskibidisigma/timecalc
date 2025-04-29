@@ -8,14 +8,14 @@
     "theme_color": "#8B5CF6",
     "icons": [
         {
-            "src": "icon.webp",
+            "src": "9953794-fotor-2025042914323.png",
             "sizes": "192x192",
-            "type": "image/webp"
+            "type": "image/png"
         },
         {
-            "src": "icon.webp",
+            "src": "9953794.png",
             "sizes": "512x512",
-            "type": "image/webp"
+            "type": "image/png"
         }
     ]
 } 
